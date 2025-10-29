@@ -7,7 +7,7 @@ function App() {
     <>
       <Header />
       <Hero />
-      <div className="container">
+      <div >
         <ListaVagas />
       </div>
     </>
